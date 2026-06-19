@@ -1,0 +1,18 @@
+# Sample resume text used by the demo program.
+
+Name: Ananya Sharma
+
+Education:
+Bachelor of Technology in Computer Science, ABC University
+
+Skills:
+Python, SQL, Data Analysis, Pandas, NumPy, Git, Communication
+
+Projects:
+Built a student performance prediction project using Python and pandas.
+Created a sales dashboard using SQL and Excel.
+
+Experience:
+Data Analyst Intern at BrightData Company.
+Worked with datasets, created reports, and presented insights to the team.
+

@@ -1,0 +1,6 @@
+# Google Agent Development Kit package.
+google-adk
+
+# Loads environment variables from a local .env file.
+python-dotenv
+

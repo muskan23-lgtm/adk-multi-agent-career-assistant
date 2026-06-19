@@ -1,0 +1,8 @@
+# Sample job description text used by the demo program.
+
+Job Title: Junior Machine Learning Engineer
+
+We are looking for a candidate with Python, SQL, machine learning, data analysis, pandas, NumPy, scikit-learn, Git, and strong communication skills.
+
+The candidate should be comfortable building small ML projects, cleaning data, training models, and explaining results to non-technical team members.
+
