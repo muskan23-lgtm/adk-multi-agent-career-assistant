@@ -1,0 +1,17 @@
+Sample Candidate Resume
+
+Education
+B.Tech in Chemical Engineering
+
+Experience
+Process and Production Intern
+- Monitored gas sweetening operations and process parameters.
+- Performed mass and energy balance calculations.
+- Worked with Excel for process data review.
+
+Projects
+- Battery thermal management data analysis using Python and Pandas.
+- Created visualizations to explore temperature and capacity trends.
+
+Skills
+Python, SQL, Excel, Pandas, NumPy, Matplotlib, Data Analysis, Communication, Git

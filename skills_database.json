@@ -1,0 +1,57 @@
+{
+  "programming": [
+    "Python",
+    "C++",
+    "Java",
+    "SQL",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "data": [
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Plotly",
+    "Power BI",
+    "Tableau",
+    "Excel",
+    "Statistics",
+    "Data Analysis",
+    "Data Visualization",
+    "Machine Learning",
+    "Scikit-learn"
+  ],
+  "ai": [
+    "LLM",
+    "Gemini",
+    "Google ADK",
+    "LangChain",
+    "FAISS",
+    "RAG",
+    "Prompt Engineering",
+    "AI Agents"
+  ],
+  "software": [
+    "Git",
+    "GitHub",
+    "Docker",
+    "REST API",
+    "Django",
+    "React",
+    "Streamlit",
+    "Pytest"
+  ],
+  "cloud": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Google Cloud"
+  ],
+  "business": [
+    "Communication",
+    "Stakeholder Management",
+    "Problem Solving",
+    "Project Management",
+    "Business Analysis"
+  ]
+}

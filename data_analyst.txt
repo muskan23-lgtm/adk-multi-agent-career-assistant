@@ -1,0 +1,11 @@
+Data Analyst Intern
+
+Responsibilities
+- Clean, analyze and interpret datasets.
+- Write SQL queries and use Python for data analysis.
+- Build dashboards and data visualizations.
+- Apply statistics and communicate insights to stakeholders.
+
+Requirements
+Python, SQL, Excel, Pandas, NumPy, Statistics, Data Analysis, Data Visualization,
+Power BI, Tableau, Communication, Problem Solving.
